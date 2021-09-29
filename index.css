@@ -5,3 +5,7 @@ span {
 img{
     width: 1000px;
 }
+li{
+    color: cyan;
+    font-family: sans-serif;
+}
