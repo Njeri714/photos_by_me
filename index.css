@@ -1,5 +1,5 @@
 span {
-    color: burlywood;
+    color: white;
 
 }
 img{
@@ -8,4 +8,10 @@ img{
 li{
     color: limegreen;
     font-family: sans-serif;
+}
+html{
+    background: URL(https://cdn.pixabay.com/photo/2019/04/06/21/21/camera-4108412_960_720.jpg);
+}
+p{
+    color: yellow;
 }
