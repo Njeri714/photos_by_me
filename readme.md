@@ -6,4 +6,6 @@
 2. Paris
 3. Cape Town
 4. New york
+
+### Images of the cities
  
