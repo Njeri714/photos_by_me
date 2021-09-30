@@ -5,13 +5,14 @@ span {
 img{
     width: 1000px;
     height: 700px;
+    
 }
 li{
     color: chartreuse;
     font-family: sans-serif;
 }
 html{
-    background: URL(https://cdn.pixabay.com/photo/2019/04/06/21/21/camera-4108412_960_720.jpg);
+    background-color: rgb(83, 83, 82);
 }
 p{
     color: yellow;
