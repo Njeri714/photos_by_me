@@ -2,26 +2,66 @@ span {
     color: white;
 
 }
-img{
-    width: 1000px;
-    height: 700px;
-    
+.img_container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img_container div img{
+    width: 300px;
+    height: 200px;
 }
 li{
-    color: chartreuse;
+    color: blue;
     font-family: sans-serif;
 }
 html{
-    background-color: rgb(83, 83, 82);
-}
-p{
-    color: yellow;
-    border-style: solid;
+    background-color: wheat;
 }
 h1{
     font-family: serif;
-    background-color: teal;
 }
 h2 {
     color:yellowgreen;
+    font-weight: bolder;
+}
+div nav ul li{
+    display: flex;
+    align-items: center
+
+}
+
+h5{
+    font-size: x-large;
+    font-weight: bold;
+    font-family: monospace;
+    color: darkblue;
+}
+
+h4{
+    color: darkblue;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+h3{
+    color: darkred;
+    font-size: large;
+    font-style: oblique;
+
+}
+div .content  p:nth-child(2){
+    color: darkmagenta;
+    font-family:  serif;
+
+}
+
+h1{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    border-style: groove;
+    border-collapse: inherit;
+    margin: 50px;
+    padding: 60px;
 }
